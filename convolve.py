@@ -27,5 +27,5 @@ for x in range(1, len(img)-1):
 #%% cv2
 cv2.filter2D(img, -1, mask)        
 
-
+# 수정 
     
